@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?Username=CleitonOERocha&show_icons=true&theme=radical)
+![Cleiton github stats](https://github-readme-stats.vercel.app/api?username=CleitonOERocha&show_icons=true&theme=radical)
 
