@@ -10,6 +10,9 @@ Meu nome é Cleiton Rocha, tenho 23 anos, estou cursando Economia na UFBA e atua
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleitonotavio058@gmail.com)](mailto:cleitonotavio058@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonOERocha&langs_count=3&theme=tokyonight&layout=compact)](https://github.com/CleitonOERocha/github-readme-stats)
-![Cleiton github stats](https://github-readme-stats.vercel.app/api?username=CleitonOERocha&show_icons=true&theme=tokyonight)
-
+<a href="https://github.com/CleitonOERocha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonOERocha&langs_count=3&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=CleitonOERocha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CleitonOERocha&show_icons=true&theme=tokyonight" />
+</a>
