@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# About me 
+## About me 
   
 Graduating in Economics at UFBA | Data analyst at the Superintendency of Economic and Social Studies of Bahia | CIDACS collaborator in projects related to COVID-19. | Focus on Economic Development and Finance.
  
