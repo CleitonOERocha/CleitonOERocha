@@ -2,7 +2,7 @@
 
 ## About me 
   
-Graduating in Economics at UFBA | Data analyst at the Superintendency of Economic and Social Studies of Bahia - SEI | CIDACS collaborator in projects related to COVID-19 | Focus on Economic Development and Finance.
+Graduating in Economics at UFBA | Data Science Analyst at the Superintendency of Economic and Social Studies of Bahia - SEI | CIDACS collaborator in projects related to COVID-19 | Focus on Economic Development and Finance.
  
 ## Communication 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CleitonOERocha)](https://github.com/CleitonOERocha)
