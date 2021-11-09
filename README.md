@@ -2,7 +2,7 @@
 
 ## About me 
   
-Graduating in Economics at UFBA | Head of Data Scinece at the BP Investimentos | Researcher at the Cidacs/Fiocruz | Focus on Economic Development, Finance and Econometrics.
+Graduating in Economics at UFBA | Head of Data Science at the BP Investimentos | Researcher at the Cidacs/Fiocruz | Focus on Economic Development, Finance and Econometrics.
  
 ## Communication 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CleitonOERocha)](https://github.com/CleitonOERocha)
