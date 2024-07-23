@@ -2,7 +2,7 @@
 
 ## About me 
   
-Economist by the Federal University of Bahia (UFBA) | Master in Computer Science by the Federal University of Bahia (UFBA) | Data Scientist | Focus on NLP, Deep Learning, MLops and Cloud
+Economist and Master in Computer Science by the Federal University of Bahia (UFBA) | Data Scientist | Focus on NLP, Deep Learning, MLops and Cloud
  
 ## Communication 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CleitonOERocha)](https://github.com/CleitonOERocha)
